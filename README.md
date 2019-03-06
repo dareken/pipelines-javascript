@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/hkenny/Test%20Project/_apis/build/status/dareken.pipelines-java?branchName=master)](https://dev.azure.com/hkenny/Test%20Project/_build/latest?definitionId=18&branchName=master)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
